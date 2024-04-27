@@ -53,5 +53,5 @@ class Config(object):
     
     TG_MIN_FILE_SIZE = 2097152000
     
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "unknownpersonzz")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "TesturlakhiBot")
                                   
